@@ -38,7 +38,7 @@ class AudioPlayerState extends State<AudioPlayerWidget>
     songInfo.artist = 'Dyno';
     songInfo.imgFileUrl = 'assets/image/cover.png';
     songInfo.duration = '300';
-    songInfo.lyrics = 'abcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg';
+    // songInfo.lyrics = 'abcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg\n\nabcdefg\nabcdefg\nabcdefg\nabcdefg';
     songInfo.title = 'Mountkid';
     songInfo.name = 'Dyno';
 
